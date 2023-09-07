@@ -1,6 +1,8 @@
 # StayOnlineForeverDiscord
 Keep your Discord profile online forever
 
+Guide On Youtube : https://youtu.be/Qcb9guNSZBY
+
 Register Replit - https://Replit.com
 
 Run on Replit - [(https://replit.com/@TheHack2/Discord-Online-Forever?v=1)](https://replit.com/@TheHack2/StayOnlineForeverOnDiscord#index.js)
