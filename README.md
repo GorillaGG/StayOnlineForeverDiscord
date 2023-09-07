@@ -3,7 +3,7 @@ Keep your Discord profile online forever
 
 Register Replit - https://Replit.com
 
-Run on Replit - (https://replit.com/@TheHack2/Discord-Online-Forever?v=1)
+Run on Replit - [(https://replit.com/@TheHack2/Discord-Online-Forever?v=1)](https://replit.com/@TheHack2/StayOnlineForeverOnDiscord#index.js)
 
 Get Token of your Discord:
 
